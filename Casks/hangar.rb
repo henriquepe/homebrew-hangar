@@ -7,7 +7,7 @@ cask "hangar" do
   desc "Native macOS terminal for AI coding agents (Claude Code, Codex)"
   homepage "https://github.com/henriquepe/hangar"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Hangar.app"
 
