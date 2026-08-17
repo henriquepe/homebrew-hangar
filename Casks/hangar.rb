@@ -1,6 +1,6 @@
 cask "hangar" do
-  version "0.2.3"
-  sha256 "b7e085b2ca7c4c5bff6e312cce769cf31c09b4471a0f0121f9a135ce0afa8611"
+  version "0.2.4"
+  sha256 "6b57fd30c87af42cdc20a577afbc25a2b9ffec9a392255d1f5fbf025663c5953"
 
   url "https://github.com/henriquepe/homebrew-hangar/releases/download/v#{version}/Hangar-#{version}.dmg"
   name "Hangar"
